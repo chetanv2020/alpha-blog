@@ -1,3 +1,6 @@
+This is first Ruby on Rails course assignment 
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
